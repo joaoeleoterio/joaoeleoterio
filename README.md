@@ -1,6 +1,3 @@
-Hi 👋 My name is Joao Henrique Eleoterio
-========================================
-
 Web Developer and Student on Trybe
 ----------------------------------
 
