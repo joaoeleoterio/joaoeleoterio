@@ -7,12 +7,12 @@ Web Developer and Student on Trybe
 I’ve always been interested in technology since I was a teenager and I became a computer technician for seven years. In 2020 I was able to go to Italy to recognize my Italian citizenship and thought about the possibility of migrating to software development. After a few free courses, today I study at TRYBE with great pride!
 I already have experience in:
 - GIT, Github, UNIX;
-- - HTML, CSS, Javascript ES6;
-- - Unit Tests in JEST;
-- - Agile Methodologies;
-- - React.js, React Router and React Hooks;
-- - Redux and Context API;
-- - Docker, Docker Compose.
+- HTML, CSS, Javascript ES6;
+- Unit Tests in JEST;
+- Agile Methodologies;
+- React.js, React Router and React Hooks;
+- Redux and Context API;
+- Docker, Docker Compose.
 
 * 🌍  I'm based in Campinas, Brazil
 * ✉️  You can contact me at [eleoterio12@gmail.com](mailto:eleoterio12@gmail.com)
