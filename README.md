@@ -35,13 +35,11 @@ I already have experience in:
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="https://github.com/joaoeleoterio/TRYBEWARTS/raw/master/pagina-principal.png" alt="Project-preview" /></a>
+      <h2 align="center"><a href="https://github.com/joaoeleoterio/TRYBEWARTS">Trybewarts</a></h2>
+      <a href="https://joaoeleoterio.github.io/TRYBEWARTS/"><img width="100%" src="https://github.com/joaoeleoterio/TRYBEWARTS/raw/master/pagina-principal.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
-      <p>:us: Harry Potter-inspired responsive web page with HTML form.</p>
-      <p>:brazil: Página responsiva com formulário HTML e inspirada em Harry Potter.</p>
+      <p> Página responsiva com formulário HTML e inspirada em Harry Potter.</p>
     </td>
   </tr>
 </table>
