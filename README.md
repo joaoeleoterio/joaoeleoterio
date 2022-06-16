@@ -43,7 +43,7 @@ I already have experience in:
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/joaoeleoterio/App-de-Receitas">Trybewarts</a></h2>
-      <a href="https://joaoeleoterio.github.io/App-de-Receitas"><img width="100%" src="https://github.com/joaoeleoterio/App-de-Receitas/blob/master/Schermata%20del%202022-06-16%2018-03-56.png?raw=true" alt="Project-preview" /></a>
+      <a href="https://joaoeleoterio.github.io/App-de-Receitas"><img width="100%" height=231px src="https://github.com/joaoeleoterio/App-de-Receitas/blob/master/Schermata%20del%202022-06-16%2018-03-56.png?raw=true" alt="Project-preview" /></a>
       <br>
       <br>
       <p> App de Receitas feito em React.</p>
