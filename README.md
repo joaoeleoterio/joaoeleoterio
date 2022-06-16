@@ -32,3 +32,16 @@ I already have experience in:
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/joaoeleoterio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jheleoterio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/joaoeleoterio12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
+      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
+      <p>:us: Harry Potter-inspired responsive web page with HTML form.</p>
+      <p>:brazil: Página responsiva com formulário HTML e inspirada em Harry Potter.</p>
+    </td>
+  </tr>
+</table>
