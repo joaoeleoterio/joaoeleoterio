@@ -36,7 +36,7 @@ I already have experience in:
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/trybewarts">Trybewarts</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="./imagens/trybewarts.png" alt="Project-preview" /></a>
+      <a href="https://raphaelalmeidamartins.github.io/trybewarts/"><img width="100%" src="[./imagens/trybewarts.png](https://github.com/joaoeleoterio/TRYBEWARTS/raw/master/pagina-principal.png)" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> Vanilla JavaScript, HTML, CSS, Mobile First</em></p>
