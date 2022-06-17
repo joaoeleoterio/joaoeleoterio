@@ -9,11 +9,11 @@ I already have experience in:
 - Agile Methodologies;
 - React.js, React Router and React Hooks;
 - Redux and Context API;
-- Docker, Docker Compose.
+- Docker, MySQL.
 
-* 🌍  I'm based in Campinas, Brazil
+* 🌍  I'm based in Campinas, Brazil.
 * ✉️  You can contact me at [eleoterio12@gmail.com](mailto:eleoterio12@gmail.com)
-* 🧠  I'm learning MySQL
+* 🧠  I'm learning NodeJS.
 
 ### Skills
 
