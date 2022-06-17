@@ -39,6 +39,9 @@ I already have experience in:
       <a href="https://joaoeleoterio.github.io/TRYBEWARTS/"><img width="100%" src="https://github.com/joaoeleoterio/TRYBEWARTS/raw/master/pagina-principal.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p> Página responsiva com formulário HTML e inspirada em Harry Potter.</p>
+      <p>
+        Página responsiva com formulário HTML e inspirada em Harry Potter.
+        CSS Flexbox para criar layouts flexíveis;
+      </p>
   </tr>
 </table>
