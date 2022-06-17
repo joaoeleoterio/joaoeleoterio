@@ -12,7 +12,7 @@ I already have experience in:
 - Docker, MySQL.
 
 * 🌍  I'm based in Campinas, Brazil.
-* ✉️  You can contact me at [eleoterio12@gmail.com](mailto:eleoterio12@gmail.com)
+* ✉️  You can contact me [here](mailto:eleoterio12@gmail.com)
 * 🧠  I'm learning NodeJS.
 
 ### Skills
