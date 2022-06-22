@@ -48,14 +48,13 @@ I already have experience in:
       </p>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/joaoeleoterio/APP_Receitas">APP de Receitas</a></h2>
-      <a href="https://app-receitas-fawn.vercel.app/"><img align="center" height="250px"             src="https://github.com/joaoeleoterio/APP_Receitas/blob/master/src/Schermata%20del%202022-06-22%2019-20-55.png?raw=true" alt="Project-preview" /></a>
+      <a href="https://app-receitas-fawn.vercel.app/"><img align="center" height="230px"             src="https://github.com/joaoeleoterio/APP_Receitas/blob/master/src/Schermata%20del%202022-06-22%2019-20-55.png?raw=true" alt="Project-preview" /></a>
       <br>
       <br>
       <p>
-        Um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
-        Nele será possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
+        Um app de receitas, utilizando React: Hooks e Context API.
         A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
-        O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
+        O layout tem como foco dispositivos móveis.
       </p>
   </tr>
 </table>
