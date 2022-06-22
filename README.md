@@ -37,7 +37,7 @@ I already have experience in:
 </p>
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="49%">
       <h2 align="center"><a href="https://github.com/joaoeleoterio/TRYBEWARTS">Trybewarts</a></h2>
       <a href="https://joaoeleoterio.github.io/TRYBEWARTS/"><img width="50%" src="https://github.com/joaoeleoterio/TRYBEWARTS/raw/master/pagina-principal.png" alt="Project-preview" /></a>
       <br>
@@ -48,7 +48,7 @@ I already have experience in:
       </p>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="49%">
       <h2 align="center"><a href="https://github.com/joaoeleoterio/APP_Receitas">APP de Receitas</a></h2>
       <a href="https://app-receitas-fawn.vercel.app/"><img height="150px" src="https://github.com/joaoeleoterio/APP_Receitas/blob/master/src/Schermata%20del%202022-06-22%2019-20-55.png?raw=true" alt="Project-preview" /></a>
       <br>
