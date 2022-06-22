@@ -50,7 +50,7 @@ I already have experience in:
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/joaoeleoterio/APP_Receitas">APP de Receitas</a></h2>
-      <a href="https://app-receitas-fawn.vercel.app/"><img height="70px" src="blob:https://vercel.com/ca267264-fccb-4fc8-8e6d-27e77cde2977" alt="Project-preview" /></a>
+      <a href="https://app-receitas-fawn.vercel.app/"><img height="70px" src="https://github.com/joaoeleoterio/APP_Receitas/blob/master/src/Schermata%20del%202022-06-22%2019-20-55.png?raw=true" alt="Project-preview" /></a>
       <br>
       <br>
       <p>
