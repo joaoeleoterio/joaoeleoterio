@@ -7,13 +7,14 @@ I already have experience in:
 - HTML, CSS, Javascript ES6;
 - Unit Tests in JEST;
 - Agile Methodologies;
-- React.js, React Router and React Hooks;
-- Redux and Context API;
-- Docker, MySQL.
+- React.js, Router and Hooks, Redux;
+- Docker, MySQL;
+- Context API, REST and RestFul;
+- Node.js, Sequelize, Express.
 
 * 🌍  I'm based in Campinas, Brazil.
 * ✉️  You can contact me [here](mailto:eleoterio12@gmail.com)
-* 🧠  I'm learning NodeJS.
+* 🧠  I'm learning TypeScript.
 
 ### Skills
 
