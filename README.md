@@ -10,7 +10,7 @@ I already have experience in:
 - React.js, Router and Hooks, Redux;
 - Docker, MySQL;
 - Context API, REST and RestFul;
-- Node.js, Sequelize, Express.
+- Node.js, Sequelize, Express, Heroku.
 
 * 🌍  I'm based in Campinas, Brazil.
 * ✉️  You can contact me [here](mailto:eleoterio12@gmail.com)
