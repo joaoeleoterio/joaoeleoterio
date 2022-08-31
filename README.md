@@ -10,11 +10,12 @@ I already have experience in:
 - React.js, Router and Hooks, Redux;
 - Docker, MySQL;
 - Context API, REST and RestFul;
-- Node.js, Sequelize, Express, Heroku.
+- Node.js, Sequelize, Express, Heroku;
+- TypeScript.
 
 * 🌍  I'm based in Campinas, Brazil.
 * ✉️  You can contact me [here](mailto:eleoterio12@gmail.com)
-* 🧠  I'm learning TypeScript.
+* 🧠  I'm learning MongoDB.
 
 ### Skills
 
@@ -29,6 +30,7 @@ I already have experience in:
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://sequelize.org/img/logo.svg" width="36" height="36" alt="Sequelize" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="36" alt="Docker" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" height="36" alt="Heroku" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" height="36" alt="Heroku" /></a>
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjn_GsMuFW7Vnda-3i75mF0ZsnM_xUvDoag&usqp=CAU" width="36" height="36" alt="CorelDraw" /></a>
