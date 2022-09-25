@@ -1,12 +1,14 @@
 Software Developer and Student on <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>
 ----------------------------------
 
-I have always been interested in computers since I was a teenager and started my career as a Graphic Designer. I studied Hardware Technician, followed this career for 7 years...
+I have always been interested in computers since I was a teenager. In 2013 I studied Hardware Technician and followed this career for 7 years...
+As an IT Technician I worked in the Infrastructure part, both in person and remotely, helping private customers and companies in the everyday problems of a computer and servers.
 
-In the middle of that, in 2020, I accomplished my goal of going to Italy to recognize my Italian citizenship.
-I lived there for 7 months and felt the desire to migrate to software development to be able to work remotely from wherever I was.
+In 2020, I realized my goal of going to Italy to recognize my Italian citizenship, I lived there for 7 months.
+Returning to Brazil I started studying Software Development, I became more interested and made the decision to change careers within the IT area. 
+In November 2021 I started my studies at Trybe, a Web Development school both in Front-end and Back-end, where I could improve my knowledge not only in Hard-Skills but also in teamwork and personal development.
 
-Today I study at Trybe, a Web Development school in both Front-end and Back-end.
+I am finishing my studies and i already have experience as a developer in: 
 
 I already have experience in:
 - GIT, Github, UNIX;
