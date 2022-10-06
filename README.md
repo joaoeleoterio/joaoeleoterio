@@ -1,4 +1,4 @@
-Software Developer and Student on <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>
+Software Developer on <a href="https://fanbase.com.br/" target="_blank" rel="noreferrer">FANBASE</a>
 ----------------------------------
 
 I have always been interested in computers since I was a teenager. In 2013 I studied Hardware Technician and followed this career for 7 years...
@@ -8,7 +8,7 @@ In 2020, I realized my goal of going to Italy to recognize my Italian citizenshi
 Returning to Brazil I started studying Software Development, I became more interested and made the decision to change careers within the IT area. 
 In November 2021 I started my studies at Trybe, a Web Development school both in Front-end and Back-end, where I could improve my knowledge not only in Hard-Skills but also in teamwork and personal development.
 
-I am finishing my studies and i already have experience as a developer in: 
+I am already have experience as a developer in: 
 
 I already have experience in:
 - GIT, Github, UNIX;
@@ -16,14 +16,14 @@ I already have experience in:
 - Unit Tests in JEST;
 - Agile Methodologies;
 - React.js, Router and Hooks, Redux;
-- Docker, MySQL;
+- Docker, MySQL, MongoDB;
 - Context API, REST and RestFul;
 - Node.js, Sequelize, Express, Heroku;
 - TypeScript.
 
 * 🌍  I'm based in Campinas, Brazil.
 * ✉️  You can contact me [here](mailto:eleoterio12@gmail.com)
-* 🧠  I'm learning MongoDB.
+* 🧠  I'm learning now C#.
 
 ### Skills
 
