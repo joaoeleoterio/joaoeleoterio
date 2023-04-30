@@ -23,7 +23,7 @@ I already have experience in:
 
 * 🌍  I'm based in Campinas, Brazil.
 * ✉️  You can contact me [here](mailto:eleoterio12@gmail.com)
-* 🧠  I'm learning now C#.
+* 🧠  I'm learning now AWS.
 
 ### Skills
 
