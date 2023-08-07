@@ -19,9 +19,9 @@ I already have experience in:
 - Node.js, Sequelize, Express, Heroku;
 - TypeScript.
 
-* 🌍  I'm based in Campinas, Brazil.
+* 🌍  I'm based in Turin, Italy.
 * ✉️  You can contact me [here](mailto:eleoterio12@gmail.com)
-* 🧠  I'm learning now AWS.
+* 🧠  I'm learning now more about Python and AWS.
 
 ### Skills
 
