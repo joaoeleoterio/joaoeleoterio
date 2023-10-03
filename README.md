@@ -1,4 +1,4 @@
-Software Developer on <a href="https://fanbase.com.br/" target="_blank" rel="noreferrer">FANBASE</a>
+DBA on <a href="https://fanbase.com.br/" target="_blank" rel="noreferrer">FANBASE</a>
 ----------------------------------
 
 I have always been interested in computers since I was a teenager. In 2013 I studied Hardware Technician and followed this career for 7 years...
