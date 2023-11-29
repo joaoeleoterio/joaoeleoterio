@@ -1,12 +1,13 @@
-DBA on <a href="https://fanbase.com.br/" target="_blank" rel="noreferrer">FANBASE</a>
+Database Administrator on <a href="https://fanbase.com.br/" target="_blank" rel="noreferrer">FANBASE</a>
 ----------------------------------
 
-I have always been interested in computers since I was a teenager. In 2013 I studied Hardware Technician and followed this career for 7 years...
-As an IT Technician I worked in the Infrastructure part, both in person and remotely, helping private customers and companies in the everyday problems of a computer and servers.
+9 years ago i started my career as a computer technician, where I gained extensive experience in maintenance, assembly, and support for computers and networks.
 
-In 2020, I realized my goal of going to Italy to recognize my Italian citizenship, I lived there for 7 months.
-Returning to Brazil I started studying Software Development, I became more interested and made the decision to change careers within the IT area. 
-In November 2021 I started my studies at Trybe, a Web Development school both in Front-end and Back-end, where I could improve my knowledge not only in Hard-Skills but also in teamwork and personal development.
+In 2020, I migrated to software development, where I specialized in web development, with a focus on
+React.js. (Javascript, HTML, CSS, MySQL, MongoDB, Docker, GitHub, Node.js, Python)
+
+Currently, I am working as a MySQL Database Administrator. 
+Seeking an opportunity to enter the DevOps field and leverage my skills in database administration and IT Support to help companies improve their workflows and software quality.
 
 I already have experience in:
 - GIT, Github, UNIX;
